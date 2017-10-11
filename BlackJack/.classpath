@@ -3,15 +3,15 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="poi-3.16.jar"/>
-	<classpathentry kind="lib" path="poi-ooxml-3.16.jar"/>
-	<classpathentry kind="lib" path="commons-collections4-4.1-javadoc.jar"/>
-	<classpathentry kind="lib" path="commons-collections4-4.1.jar"/>
-	<classpathentry kind="lib" path="poi-examples-3.16.jar"/>
-	<classpathentry kind="lib" path="poi-excelant-3.16.jar"/>
-	<classpathentry kind="lib" path="poi-ooxml-schemas-3.16.jar"/>
-	<classpathentry kind="lib" path="poi-scratchpad-3.16.jar"/>
-	<classpathentry kind="lib" path="xmlbeans-5.3.0-rc1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="jars/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="jars/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="jars/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="jars/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="jars/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="jars/xmlbeans-5.3.0-rc1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
